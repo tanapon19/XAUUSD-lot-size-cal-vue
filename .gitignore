@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.png
+*.jpg
+*.jpeg
+post-*.json
+featured-image-*.png
+dist
